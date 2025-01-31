@@ -1,4 +1,4 @@
 # github-demo-
 this is my first respository.
 <br>
-author: harshad pachupate 
+author: harshad (Harshu)
